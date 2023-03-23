@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hola 
+
+<!-- 
+Saludo
+Hi everyone, I'm Matias Quinteros, nice to see you!
+
+Quien soy
+I'm a software development student. I am currently specializing in mainly JavaScript-based technologies like React and Next.js. I also have knowledge of Java and Spring Boot. I am interested in everything related to technology and web development. I like teamwork and I am always willing to learn new technologies.
+
+- Herramientas
+- Proyectos
+- Contacto
+-->
 
 <!--
 **matiqs/matiqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
