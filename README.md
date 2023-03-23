@@ -8,6 +8,9 @@ Quien soy
 I'm a software development student. I am currently specializing in mainly JavaScript-based technologies like React and Next.js. I also have knowledge of Java and Spring Boot. I am interested in everything related to technology and web development. I like teamwork and I am always willing to learn new technologies.
 
 - Herramientas
+<p>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</p>
 - Proyectos
 - Contacto
 -->
